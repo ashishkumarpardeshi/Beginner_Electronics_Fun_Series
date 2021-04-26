@@ -60,7 +60,9 @@ Therfore I strongly recommend you all to document every thing related to your pr
 
 We will be upadting the below project list as we move forward.
 
-[Project#1: Polarity Detector](https://github.com/ashishkumarpardeshi/Beginner_Electronics_Fun_Series/blob/master/Project%231_Polarity_Detector.md)
+[1. Project#1: Polarity Detector](https://github.com/ashishkumarpardeshi/Beginner_Electronics_Fun_Series/blob/master/Project%231_Polarity_Detector.md)
+
+[2. Project#2: Variable_Brightness_LED](https://github.com/ashishkumarpardeshi/Beginner_Electronics_Fun_Series/blob/master/Project%232_Variable_Brightness_LED.md)
 
 
 
