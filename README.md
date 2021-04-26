@@ -13,7 +13,7 @@ Did you ever wondered how these Electronics devices works? And are you curious t
 Let me take this opportunity to introduce and invite you all to this **Beginner Electronics Fun Series** to explore and learn electronics by making projects in a open and playful environment.
 
 ## Table of Contents
-  - [Beginners Electronics Fun Series](#beginners-electronics-fun-series)
+- [Beginners Electronics Fun Series](#beginners-electronics-fun-series)
 
   - [Table of Contents](#table-of-contents)
 
@@ -64,6 +64,12 @@ We will be upadting the below project list as we move forward.
 
 
 
+## License
 
+
+- Distributed under the  [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
+<p align="center">
+  <img src="assets/images/CC-SA.png">
+</p>
 
 
