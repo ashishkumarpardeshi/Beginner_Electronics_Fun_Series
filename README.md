@@ -1,16 +1,16 @@
-# Beginners Electronics Fun Series
+# Beginner Electronics Fun Series
 
 <p align="center">
   <img src="assets/images/components_banner.png">
 </p>
 
-### **Welcome to Beginners Electronics Fun Series !**
+### **Welcome to Beginner Electronics Fun Series !**
 
 Electronics are fun and fascinating, our lives are surrounded by interesting electronics gadgets such as Musical Instruments (Piano, guitar etc), Smart Phones, lighting Devices (Bulb, Tubelight etc), Cameras, Computers, Home appliances etc.
 
 Did you ever wondered how these Electronics devices works? And are you curious to explore and learn electronics.
 
-Let me take this opportunity to introduce and invite you all to this **Basic Electronics Fun Series** to explore and learn electronics by making projects in a open and playful environment.
+Let me take this opportunity to introduce and invite you all to this **Beginner Electronics Fun Series** to explore and learn electronics by making projects in a open and playful environment.
 
 ## Table of Contents
   - [Beginners Electronics Fun Series](#beginners-electronics-fun-series)
@@ -39,7 +39,10 @@ I am also excited to introduce you to Tinkering Box (But what it is?), okay i ma
 
 You can use any empty box and can also call it a Maker Box or Hacker Box or whatever.
 
-(Tinkering Box Image)
+<p align="center">
+  <img src="assets/images/tinkering_box.jpg">
+</p>
+
 
 Initially I have added few LEDs, resitors, one breadboard and one battery. 
 
@@ -53,7 +56,7 @@ It is always a best practise and also today's need to document your journey of m
 
 Therfore I strongly recommend you all to document every thing related to your project. While process of making keep taking pictures and videos, post them to your project thread, if stucked anywhere can ask questions, can help other with answers etc.
 
-## Lets Start With Beginners Electronics Fun Series Projects
+## Lets Start With Beginner Electronics Fun Series Projects
 
 We will be upadting the below project list as we move forward.
 
