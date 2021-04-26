@@ -44,7 +44,7 @@ You can use any empty box and can also call it a Maker Box or Hacker Box or what
 </p>
 
 
-Initially I have added few LEDs, resitors, one breadboard and one battery. 
+Initially I have added few LEDs, resistors, one breadboard and one battery. 
 
 And will keep updating this Tinkering Box with new components whenever required to tinker or play around with new projects. 
 
@@ -60,7 +60,7 @@ Therfore I strongly recommend you all to document every thing related to your pr
 
 We will be upadting the below project list as we move forward.
 
-Project#1: Polarity Detector
+[Project#1: Polarity Detector](https://github.com/ashishkumarpardeshi/Beginner_Electronics_Fun_Series/blob/master/Project%231_Polarity_Detector.md)
 
 
 
