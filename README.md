@@ -54,7 +54,7 @@ So I encourage you all to make your own tinkering box and share about it with co
 
 It is always a best practise and also today's need to document your journey of making a project which will help to show the process of making to the community, seeking as well as providing help, creating your digital profile and community formation.
 
-Therfore I strongly recommend you all to document every thing related to your project. While process of making keep taking pictures and videos, post them to your project thread, if stucked anywhere can ask questions, can help other with answers etc.
+Therefore I strongly recommend you all to document every thing related to your project. While process of making keep taking pictures and videos, post them to your project thread, if stucked anywhere can ask questions, can help other with answers etc.
 
 ## Lets Start With Beginner Electronics Fun Series Projects
 
@@ -71,7 +71,7 @@ We will be upadting the below project list as we move forward.
 
 - Distributed under the  [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
 <p align="center">
-  <img src="assets  /images/CC-SA.png">
+  <img src="assets/images/CC-SA.png">
 </p>
 
 
