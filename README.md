@@ -48,6 +48,8 @@ Initially I have added few LEDs, resistors, one breadboard and one battery.
 
 And will keep updating this Tinkering Box with new components whenever required to tinker or play around with new projects. 
 
+I have also
+
 So I encourage you all to make your own tinkering box and share about it with community.
 
 ## Documentation and Discussion

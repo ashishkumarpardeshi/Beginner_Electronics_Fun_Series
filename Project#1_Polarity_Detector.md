@@ -1,12 +1,34 @@
 # Basic Electronics Fun Series: ***Polarity Detector*** (Project_1)
 
-**Welcome to Basic Electronics Fun Series Project#1 !**
+**Welcome to Beginner Electronics Fun Series Project#1 !**
 
-We all love glowing LEDs and its a wonder to see different colors emmiting out of these small light sources.
+We all love glowing LEDs and its a wonder to see different color light emmiting out of these small light sources.
 
-So before getting our hands dirty let me introduce you to my Tinkering Box (But what it is?), okay i made this tinkering box for collecting different components to tinker with.
+In this project we will simply figure out when LED will glow and when not and then using it to detect the polarity of our battery.
 
-And will keep updating this Tinkering Box with new components whenever required to tinker or play around with new projects.
+## Time to Open Tinkering Box
 
-So lets look into it what all components i have initially added to it.
+Lets see what all components I have addded to Tinkering Box.
+
+<p align="center">
+  <img src="assets/images/p1_1.jpg">
+</p>
+
+As we can see we have the following components:
+
+1. LEDs of different colors(red, blue & transparent blue) and sizes (3mm & 5mm).
+
+2. Resistors of different values (100R, 470R, 220R & 1K), Where R = ohms and K = kilo ohms.
+
+3. Batteries (AA battery, CR2032 3v Coin cell, 9v MN1604).
+
+4. Breadboard.
+
+5. Male to Male Jumper wires.
+
+## Lets glow an LED
+
+
+
+
 
